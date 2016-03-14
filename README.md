@@ -28,5 +28,21 @@ http://unlease-chess.herokuapp.com/
 3. Run tests
 ```npm test```
 
+### Interesting directories:
+```
+
+├── /src/                       
+    ├── /actions/               # Alt actions
+    ├── /components/            # React components
+    │   ├── /App
+    │   ├── /Chessboard
+    │   ├── /Figure
+    │   ├── /Tile
+    ├── /constants/             
+    ├── /stores/                # Alt stores
+    ├── /utils/
+```
+
+
 ---
 Made with ♥ by Patrik Prevuznak
