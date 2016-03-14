@@ -13,6 +13,14 @@ http://unlease-chess.herokuapp.com/
 * [Alt Flux Implementation](https://www.npmjs.com/package/alt)
 * [react-drag-and-drop](https://www.npmjs.com/package/react-drag-and-drop)
 
+### To run app locally (dev mode):
+1. Clone repo
+2. Install dependencies
+```npm install```
+3. Run tests
+```npm start```
+
+
 ### To run tests:
 1. Clone repo
 2. Install dependencies
