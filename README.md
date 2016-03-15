@@ -17,7 +17,7 @@ http://unlease-chess.herokuapp.com/
 1. Clone repo
 2. Install dependencies
 ```npm install```
-3. Run tests
+3. Run app
 ```npm start```
 
 
